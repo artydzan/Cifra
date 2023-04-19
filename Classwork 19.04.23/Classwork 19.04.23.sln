@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classwork 19.04.23", "Class
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classwork", "Classwork\Classwork.csproj", "{99CDB830-72E5-4419-8AE4-1B2FA4694CBB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "new Classwork", "new Classwork\new Classwork.csproj", "{F6D57621-9ED5-4C46-86E8-31263647F653}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{99CDB830-72E5-4419-8AE4-1B2FA4694CBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99CDB830-72E5-4419-8AE4-1B2FA4694CBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99CDB830-72E5-4419-8AE4-1B2FA4694CBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6D57621-9ED5-4C46-86E8-31263647F653}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6D57621-9ED5-4C46-86E8-31263647F653}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6D57621-9ED5-4C46-86E8-31263647F653}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6D57621-9ED5-4C46-86E8-31263647F653}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
